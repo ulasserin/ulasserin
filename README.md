@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ulasserin
-- 👀 I’m interested in Django 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning php
 
 
 <!---
