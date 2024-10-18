@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 📫 How to reach me **ulasserin@outlook.com.tr**
+- 📫 How to reach me **ulasserin7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
